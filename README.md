@@ -9,3 +9,12 @@ This is the repository to showcase my work for accomplishing 100DaysofMLCode
 
 **Link(s) to work**
 [Titanic dataset exploration](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day1/Titanic%20Dataset%20Exploration.ipynb)
+
+### Day2: July 7, 2018 
+
+**Today's Progress**: I've analyzed the dataset for categorical, continious features.
+
+**Thoughts** Analaysing each attributes is time taking if we have more number of features
+
+**Link(s) to work**
+[Titanic dataset exploration](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day2/Titanic%20Dataset%20Exploration.ipynb)
