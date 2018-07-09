@@ -18,3 +18,13 @@ This is the repository to showcase my work for accomplishing 100DaysofMLCode
 
 **Link(s) to work**
 [Titanic dataset exploration](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day2/Titanic%20Dataset%20Exploration.ipynb)
+
+### Day3: July 8, 2018 
+
+**Today's Progress**: Completed K-Means clustering videos in Udacity ML Nanodegree .
+
+**Thoughts** K-Means clustering have limitations, the major one local minima. When the centeroids are inteitalies to local minima while picking randomly will cause failure of K-Means clustering. One way is to run K-Means algorithem multiple times and get the ensemble of all the phases. If more number of clusters are assigned the more local minimas exists.
+
+**Link(s) to work**
+[K-Means Visulization](http://www.naftaliharris.com/blog/visualizing-k-means-clustering/)
+[sklean K-Means](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
