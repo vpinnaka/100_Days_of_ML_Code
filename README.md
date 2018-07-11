@@ -46,8 +46,8 @@ This is the repository to showcase my work for accomplishing 100DaysofMLCode
 **Thoughts** Recommendation engine that is coded in this project can be extended to other datasets such as item recommendation for Amazon or restauerent recommendation engine etc. In this mini-project Ihave graspd the overview of recommendation engines but coding a recommendation engine from scratch will defnitly help me to learn better and utilizing other algorithems for clustering will be a better approach. 
 
 **Some Improvement**
-    * Colloborative filtering is performed here, but need to investigate other approaches
-    * Convert this to a flask api so that I can develop a freontend on top this
+* Colloborative filtering is performed here, but need to investigate other approaches
+* Convert this to a flask api so that I can develop a freontend on top this
 
 **Link(s) to work**
 * [siraj raval AWS DSSTNE](https://www.youtube.com/watch?v=eKmIVU8EUbw) this video includes a paper about recommendation engines read this
