@@ -51,3 +51,11 @@ This is the repository to showcase my work for accomplishing 100DaysofMLCode
 [siraj raval AWS DSSTNE](https://www.youtube.com/watch?v=eKmIVU8EUbw) this video includes a paper about recommendation engines read this
 [siraj raval recommendation system](https://www.youtube.com/watch?v=9gBC9R-msAk)
 
+### Day6: July 12, 2018 
+
+**Today's Progress**: Worked on Titanic dataset project and analysed the impoertant features that contribute to the Survival.
+
+**Thoughts** Makeing data assumptions and verifying them by anylizing the data is the first step to understand data. Any data science project requires this phase. 
+
+**Link(s) to work**
+[Titanic dataset exploration](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day6/Titanic%20Dataset%20Exploration.ipynb) 
