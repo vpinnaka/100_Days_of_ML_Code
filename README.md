@@ -71,3 +71,12 @@ This is the repository to showcase my work for accomplishing 100DaysofMLCode
 **Link(s) to work**
 [Hierachical clustering](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day7/Hierarchical_clustering/Hierarchical%20Clustering%20Lab.ipynb) 
 [DBSCAN](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day7/DBSCAN/DBSCAN%20Notebook.ipynb)
+
+### Day8: July 15, 2018 
+
+**Today's Progress**: Completed Gaussian mixture model.
+
+**Thoughts** GMM is a propabilistic algorithm where every point will have propabilities of each cluster. Expectation maximization algorithm is ued to find GMM. Also studied cluster validation techniques such as Adjusted Rand Index, Shilouette Cofficients
+
+**Link(s) to work**
+[Gaussian mixture model](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day8/GMM_Clustering/GMM%20Clustering%20and%20Cluster%20Validation%20Lab.ipynb) 
