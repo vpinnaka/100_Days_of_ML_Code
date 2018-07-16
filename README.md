@@ -61,3 +61,13 @@ This is the repository to showcase my work for accomplishing 100DaysofMLCode
 
 **Link(s) to work**
 [Titanic dataset exploration](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day6/Titanic%20Dataset%20Exploration.ipynb) 
+
+### Day7: July 14, 2018 
+
+**Today's Progress**: Completed Hirachical clustering techniques and DBSCAN.
+
+**Thoughts** Hierarchical clustering techniques are useful to get more info about dataset by the dendogram it creates. Dendogram will visulize the capability to cluster the points. DBSCAN on the other hand is efficient for data with noise and can beat any other algorithem in this case
+
+**Link(s) to work**
+[Hierachical clustering](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day7/Hierarchical_clustering/Hierarchical%20Clustering%20Lab.ipynb) 
+[DBSCAN](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day7/DBSCAN/DBSCAN%20Notebook.ipynb)
