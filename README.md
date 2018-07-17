@@ -89,4 +89,4 @@ This is the repository to showcase my work for accomplishing 100DaysofMLCode
 
 **Link(s) to work**
 [Titanic dataset exploration](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day9/Titanic%20Dataset%20Exploration.ipynb) 
-[Univariate Pandas visualization](https://www.kaggle.com/residentmario/univariate-plotting-with-pandas)
+, [Univariate Pandas visualization](https://www.kaggle.com/residentmario/univariate-plotting-with-pandas)
