@@ -80,3 +80,13 @@ This is the repository to showcase my work for accomplishing 100DaysofMLCode
 
 **Link(s) to work**
 [Gaussian mixture model](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day8/GMM_Clustering/GMM%20Clustering%20and%20Cluster%20Validation%20Lab.ipynb) 
+
+### Day9: July 16, 2018 
+
+**Today's Progress**: Worked on Titanic dataset project and visualized the features with pandas that contribute to the Survival.
+
+**Thoughts** Pandas provides a simple Univariate plotting visualization tools such as bar graph(nominal categorical data), line graph(ordinal categorical data) and histograms(interval data). The important features of titanic data are visualized with pandas with Survivals as single variable.
+
+**Link(s) to work**
+[Titanic dataset exploration](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day9/Titanic%20Dataset%20Exploration.ipynb) 
+[Univariate Pandas visualization](https://www.kaggle.com/residentmario/univariate-plotting-with-pandas)
