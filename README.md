@@ -90,3 +90,12 @@ This is the repository to showcase my work for accomplishing 100DaysofMLCode
 **Link(s) to work**
 [Titanic dataset exploration](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day9/Titanic%20Dataset%20Exploration.ipynb) 
 , [Univariate Pandas visualization](https://www.kaggle.com/residentmario/univariate-plotting-with-pandas)
+
+### Day10: July 17, 2018 
+
+**Today's Progress**: Completed videos on Principal component Analysis(PCA)
+
+**Thoughts** PCA is mainly used to visualize high-dimentional data, to transform more number of features into fewer significant ones which helps other algorithms run better. Also PCA reduces noise by selecting only the top principal components. The main intension the PCA is to find the patterns in data which can Maximize varinace and minimize information loss.
+
+**Link(s) to work**
+[When to use PCA](https://www.youtube.com/watch?v=hJZHcmJBk1o)
