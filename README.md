@@ -99,3 +99,23 @@ This is the repository to showcase my work for accomplishing 100DaysofMLCode
 
 **Link(s) to work**
 [When to use PCA](https://www.youtube.com/watch?v=hJZHcmJBk1o)
+
+### Day11: July 18, 2018 
+
+**Today's Progress**: Completed videos on Random projection, Independent component analysis(ICA)
+
+**Thoughts** I got the importantance of dimintinality reduction techniques, how Random projection is better than PCA when we have higher dimentions. I am exited about the application of ICA in audio seperation and its use in Health data, Time series data. 
+
+**Link(s) to work**
+[ICA](https://github.com/vpinnaka/100_Days_of_ML_Code/blob/master/Day11/IndependentComponentAnalysis/Independent%20Component%20Analysis%20Lab.ipynb)
+
+### Day12: July 19, 2018 
+
+**Today's Progress**: AWS Sagemaker demo
+
+**Thoughts** Watched AWS innovative conferance, got some insights how AWS is providing machine learning services. AWS SageMaker is one of the kind end-to-end machine learning service that provide on the spot instance for training and deployes the model on a EC2 instance so that we can write a client to test the endpoint. Also found some intreasting projects with ML on AWS
+
+**Link(s) to work**
+[AWS SageMaker](https://github.com/awslabs/amazon-sagemaker-examples)
+[Twitter Bot](https://github.com/aws-samples/aws-rekognition-workshop-twitter-bot)
+[Hot Dog App](https://github.com/aws-samples/serverless-hotdog-detector)
