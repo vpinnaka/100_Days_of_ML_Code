@@ -119,3 +119,12 @@ This is the repository to showcase my work for accomplishing 100DaysofMLCode
 [AWS SageMaker](https://github.com/awslabs/amazon-sagemaker-examples)
 [Twitter Bot](https://github.com/aws-samples/aws-rekognition-workshop-twitter-bot)
 [Hot Dog App](https://github.com/aws-samples/serverless-hotdog-detector)
+
+### Day13: August 19, 2018 
+
+**Today's Progress**: Microsoft Azure Machine Learning studio
+
+**Thoughts** Created and deployed a car price prediction model with zero coding with azure machine learning studio. In my thoughts azure machine learning studio is more easire to use than AWS sagemaker both are of similar tools except in Sagemaker is competly based on codeing where as azure ML studion has drag and drop option also we can create notebooks similar to sagemaker. 
+**Link(s) to work**
+[Azure ML studio](https://studio.azureml.net/Home/ViewWorkspaceCached/4ab26ab7e57c4363910c2e2683a5f333#Workspaces/Experiments/Experiment/4ab26ab7e57c4363910c2e2683a5f333.f-id.146d29580ad340eda0dc4bf31cddcc9a/ViewExperiment)
+[Siraj Ravel Video](https://www.youtube.com/watch?v=LQEyK4POowk)
